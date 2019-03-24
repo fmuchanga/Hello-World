@@ -1,0 +1,13 @@
+class Example{
+     public static void main(String[] arg){
+     
+     String name;
+     int age = 24;
+     String address;
+     name = "Fernando Muchanga";
+     address = " Mozambique, Maputo, Zimpeto";
+     
+     System.out.println("My name is "+name+" I have "+age+ " years old and I live in "+ address);
+     
+     }
+}
